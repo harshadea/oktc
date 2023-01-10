@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "52018542797",
+    "project_id": "oktc-fccda",
+    "storage_bucket": "oktc-fccda.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:52018542797:android:71f05e29efd315a5e05184",
+        "android_client_info": {
+          "package_name": "com.example.oktc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "52018542797-kn44m11niep37jg81m3c4qdk8kbqhlj8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwSoZVJU020rjfpkYFlAWh9QFyIl1W9AU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "52018542797-kn44m11niep37jg81m3c4qdk8kbqhlj8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
